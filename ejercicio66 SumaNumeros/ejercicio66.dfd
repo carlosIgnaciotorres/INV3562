@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+' cuántos números quiere sumar'
+5
+1
+1
+n
+6
+2
+4
+suma
+1
+0
+8
+contador
+1
+1
+9
+1
+12
+contador = n
+6
+1
+9
+contador 
+1
+1
+4
+1
+35
+'ingrese un número que será sumado'
+5
+1
+7
+ número
+6
+1
+4
+suma
+14
+suma +  número
+7
+0
+1
+11
+suma > 1000
+13
+4
+1
+36
+'El número que excedió fue',  número
+13
+11
+1

@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+47
+'  ingrese la cantidad de hombres en el grupo '
+5
+1
+7
+hombres
+4
+1
+45
+' ngrese la cantidad de mujeres en el grupo '
+5
+1
+7
+mujeres
+6
+1
+17
+total_estudiantes
+17
+hombres + mujeres
+7
+0
+1
+21
+total_estudiantes > 0
+4
+1
+41
+' Error: No hay estudiantes en el grupo '
+13
+6
+1
+18
+porcentaje_hombres
+35
+(hombres / total_estudiantes) * 100
+6
+1
+18
+porcentaje_mujeres
+36
+ (mujeres / total_estudiantes) * 100
+13
+4
+1
+51
+'Porcentaje de hombres: ' , porcentaje_hombres, '%'
+4
+1
+50
+'Porcentaje de mujeres: ', porcentaje_mujeres, '%'
+1

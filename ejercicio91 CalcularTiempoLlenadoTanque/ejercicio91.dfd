@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+56
+' Ingresa el flujo de la manguera en litros por minuto '
+5
+1
+1
+L
+6
+3
+16
+Capacidadelitros
+9
+50 * 1000
+15
+Tiempoenminutos
+21
+Capacidadelitros / L 
+13
+Tiempoenhoras
+20
+Tiempoenminutos / 60
+4
+1
+46
+' el tiempo en minutos es ' ,  Tiempoenminutos
+4
+1
+42
+ ' El tiempo en horas es ' , TiempoEnHoras
+1

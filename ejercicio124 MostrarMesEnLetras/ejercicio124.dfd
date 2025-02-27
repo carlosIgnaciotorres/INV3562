@@ -1,0 +1,191 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'ingresa el dia '
+5
+1
+3
+día
+4
+1
+18
+' ingresa el mes '
+5
+1
+4
+mes 
+4
+1
+17
+'ingresa el año '
+5
+1
+3
+año
+7
+0
+1
+7
+mes = 1
+7
+0
+1
+7
+mes = 2
+7
+0
+1
+7
+mes = 3
+7
+0
+1
+7
+mes = 4
+7
+0
+1
+7
+mes = 5
+7
+0
+1
+7
+mes = 6
+7
+0
+1
+7
+mes = 7
+7
+0
+1
+7
+mes = 8
+7
+0
+1
+7
+mes = 9
+7
+0
+1
+8
+mes = 10
+7
+0
+1
+8
+mes = 11
+7
+0
+1
+8
+mes = 12
+13
+6
+1
+3
+mes
+13
+' diciembre '
+13
+13
+6
+1
+3
+mes
+14
+' noviembre  '
+13
+13
+6
+1
+3
+mes
+11
+' octubre '
+13
+13
+6
+1
+3
+mes
+14
+' septiembre '
+13
+13
+6
+1
+4
+mes 
+10
+' agosto' 
+13
+13
+6
+1
+4
+mes 
+9
+' julio' 
+13
+13
+6
+1
+4
+mes 
+9
+' junio' 
+13
+13
+6
+1
+4
+mes 
+9
+' mayo ' 
+13
+13
+6
+1
+4
+mes 
+10
+' abril  '
+13
+13
+6
+1
+4
+mes 
+9
+' marzo' 
+13
+13
+6
+1
+4
+mes 
+11
+' febrero' 
+13
+13
+6
+1
+4
+mes 
+9
+' enero' 
+13
+4
+1
+17
+'El mes es:', mes
+1

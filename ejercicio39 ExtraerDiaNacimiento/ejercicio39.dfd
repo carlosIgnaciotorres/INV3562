@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+60
+'  ingrese la fecha de nacimiento en el formato día/mes/año'
+5
+1
+15
+FechaNacimiento
+6
+1
+3
+Día
+32
+Subcadena(FechaNacimiento, 1, 2)
+4
+1
+50
+' el día extraído de la fecha de nacimiento' , Día
+1

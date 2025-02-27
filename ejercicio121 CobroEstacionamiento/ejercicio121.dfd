@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+68
+'  ingrese la cantidad de horas que el vehículo estuvo estacionado '
+5
+1
+5
+horas
+4
+1
+30
+' ingrese la tarifa por hora '
+5
+1
+6
+tarifa
+6
+1
+6
+total 
+14
+horas * tarifa
+4
+1
+39
+' el monto total a pagar es : ' , total
+1

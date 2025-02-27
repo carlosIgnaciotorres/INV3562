@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+36
+' Ingresa la cantidad de personas: '
+5
+1
+17
+cantidad_personas
+6
+1
+14
+   suma_edades
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+17
+cantidad_personas
+1
+1
+1
+4
+1
+39
+ ' Ingresa la edad de la persona ' , 1 
+5
+1
+9
+edades(i)
+6
+1
+12
+ suma_edades
+23
+suma_edades + edades(i)
+10
+6
+1
+8
+promedio
+32
+ suma_edades / cantidad_personas
+4
+1
+39
+' El promedio de edades es ' , promedio
+1

@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+4
+suma
+1
+0
+4
+1
+18
+' ingresa numero '
+5
+1
+6
+numero
+6
+1
+8
+contador
+1
+1
+7
+0
+1
+14
+numero / 2 = 0
+6
+1
+8
+contador
+12
+contador + 1
+13
+6
+1
+4
+suma
+13
+suma + numero
+13
+7
+0
+1
+14
+contador >= 10
+13
+4
+1
+42
+'La suma de los números impares es:', suma
+13
+1

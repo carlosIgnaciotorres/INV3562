@@ -1,0 +1,1 @@
+Calcule la media aritmética de 3 números cualquiera

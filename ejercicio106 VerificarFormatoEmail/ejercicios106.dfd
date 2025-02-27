@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+'  ingrese un email '
+5
+1
+5
+email
+7
+0
+1
+12
+'@'  = email
+4
+1
+23
+' (Formato incorrecto '
+13
+7
+0
+1
+12
+'.'  = email
+4
+1
+22
+' Formato incorrecto '
+13
+4
+1
+19
+' Formato correcto'
+13
+13
+1

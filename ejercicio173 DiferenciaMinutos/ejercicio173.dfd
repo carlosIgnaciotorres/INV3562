@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+' ngrese la primera hora '
+5
+1
+2
+h1
+4
+1
+28
+' Ingrese la primer minuto '
+5
+1
+2
+m1
+4
+1
+27
+' Ingrese la segunda hora '
+5
+1
+2
+h2
+4
+1
+29
+' Ingrese el segundo minuto' 
+5
+1
+2
+m2
+6
+3
+8
+minutos1
+14
+(h1 * 60) + m1
+9
+minutos2 
+14
+(h2 * 60) + m2
+11
+diferencia 
+21
+(minutos2 - minutos1)
+4
+1
+45
+' La diferencia en minutos es: ' , diferencia
+1

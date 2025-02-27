@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+' ingrese el numer '
+5
+1
+1
+N
+6
+1
+14
+lista_valores 
+3
+(1)
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+5
+1
+5
+valor
+6
+1
+14
+ lista_valores
+7
+(valor)
+10
+6
+2
+6
+rangos
+1
+8
+11
+frecuencias
+24
+(lista_valores * rangos)
+4
+1
+40
+' Frecuencias por rango:' , frecuencias 
+1

@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+' ingrese un número'
+5
+1
+6
+numero
+7
+0
+1
+12
+numero > 100
+13
+7
+0
+1
+13
+numero < 1000
+13
+7
+0
+1
+14
+numero / 5 = 0
+13
+4
+1
+25
+' el numero es ' , numero
+13
+13
+13
+1

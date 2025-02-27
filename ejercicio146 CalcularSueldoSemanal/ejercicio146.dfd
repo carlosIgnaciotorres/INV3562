@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'  ingrese un año '
+5
+1
+3
+año
+7
+0
+1
+15
+año mod 400 = 0
+7
+0
+1
+15
+año mod 100 = 0
+7
+0
+1
+13
+año mod 4 = 0
+4
+1
+24
+' El año NO es bisiest '
+13
+4
+1
+22
+' El año es bisiesto '
+13
+13
+4
+1
+24
+' El año NO es bisiest '
+13
+13
+4
+1
+24
+' El año NO es bisiest '
+13
+1

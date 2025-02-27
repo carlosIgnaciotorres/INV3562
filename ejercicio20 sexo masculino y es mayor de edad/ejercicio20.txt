@@ -1,0 +1,1 @@
+Ingresar por teclado el nombre, la edad y el sexo de cualquier persona e imprima, solo si la persona es de sexo masculino y es mayor de edad, imprimir el nombre también

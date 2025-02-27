@@ -1,0 +1,1 @@
+Generar una secuencia de los primeros 10 números de la serie Fibonacci.

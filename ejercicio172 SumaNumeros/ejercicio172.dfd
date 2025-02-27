@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+' Ingrese un número entero positivo '
+5
+1
+1
+N
+7
+0
+1
+5
+N < 1
+6
+1
+4
+suma
+17
+(N * (N + 1)) / 2
+4
+1
+62
+'La suma de los números enteros de 1 hasta ', N, ' es: ', suma
+13
+4
+1
+41
+' El número debe ser mayor o igual a 1. '
+13
+1

@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+' ingrese el año 1 '
+5
+1
+4
+Año1
+4
+1
+20
+' ingrese el año 2 '
+5
+1
+4
+Año2
+7
+0
+1
+11
+Año1 > Año2
+6
+1
+6
+Meses 
+19
+(Año2 - Año1 ) * 12
+13
+6
+1
+5
+Meses
+19
+(Año1 - Año2 ) * 12
+13
+4
+1
+63
+' El  total de meses transcurridos entre los dos años ' , Meses
+1

@@ -1,0 +1,95 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+19
+suma_calificaciones
+1
+0
+19
+contador_respuestas
+1
+0
+20
+total_calificaciones
+1
+0
+6
+3
+12
+calificacion
+1
+0
+19
+suma_calificaciones
+1
+0
+19
+contador_respuestas
+1
+0
+6
+1
+20
+numero_de_respuestas
+1
+0
+4
+1
+30
+' calificación de un usuario '
+5
+1
+12
+calificacion
+6
+2
+20
+total_calificaciones
+35
+total_calificaciones + calificacion
+20
+numero_de_respuestas
+24
+numero_de_respuestas + 1
+7
+0
+1
+40
+calificacion >= 1 and  calificacion <= 5
+4
+1
+49
+' Calificación no válida, debe ser entre 1 y 5. '
+13
+6
+2
+19
+suma_calificaciones
+34
+suma_calificaciones + calificacion
+20
+ contador_respuestas
+23
+contador_respuestas + 1
+13
+7
+0
+1
+23
+contador_respuestas > 0
+4
+1
+43
+'No se ingresaron calificaciones válidas. '
+13
+4
+1
+57
+' El promedio de satisfacción es: ', suma_calificaciones 
+13
+1

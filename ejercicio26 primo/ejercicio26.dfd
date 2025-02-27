@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+' ingrese un numero'
+5
+1
+6
+Numero
+7
+0
+1
+11
+Numero <= 1
+6
+1
+7
+Divisor
+1
+2
+7
+0
+1
+22
+Numero MOD Divisor = 0
+7
+0
+1
+16
+Divisor > Numero
+6
+1
+7
+Divisor
+11
+Divisor + 1
+4
+1
+20
+'el numero es primo'
+13
+4
+1
+21
+' El número es primo'
+13
+13
+4
+1
+24
+' El número no es primo'
+13
+13
+4
+1
+23
+'El número no es primo'
+13
+1

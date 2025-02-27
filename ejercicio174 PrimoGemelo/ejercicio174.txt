@@ -1,0 +1,1 @@
+Leer un número e indicar si es un número primo gemelo (n y n+2 son primos).

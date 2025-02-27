@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+' ngresa un número '
+5
+1
+1
+N
+6
+2
+1
+X
+3
+N/3
+10
+tolerancia
+6
+0.0001
+6
+1
+6
+Xnuevo
+24
+2 *  X + ( N / X^2 ) / 3
+7
+0
+1
+27
+( Xnuevo - X ) < tolerancia
+4
+1
+38
+' la raíz cúbica aproximada ' , Xnuevo
+13
+4
+1
+38
+' la raíz cúbica aproximada ' , Xnuevo
+13
+1

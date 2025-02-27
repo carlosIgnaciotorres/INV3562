@@ -1,0 +1,1 @@
+Cálculo de propina: El usuario ingresa monto de la cuenta y porcentaje de propina.

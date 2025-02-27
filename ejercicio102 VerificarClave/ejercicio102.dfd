@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+18
+clave_establecida 
+17
+' miClaveSecreta'
+4
+1
+59
+'ngrese una clave para compararla con la clave establecida'
+5
+1
+13
+clave_usuario
+7
+0
+1
+33
+clave_usuario = clave_establecida
+4
+1
+20
+' Clave incorrecta '
+13
+4
+1
+19
+' Acceso concedido'
+13
+1

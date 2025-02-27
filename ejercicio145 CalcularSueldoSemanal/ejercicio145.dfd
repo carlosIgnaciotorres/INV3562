@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+44
+' ngrese las horas trabajadas en la semana '
+5
+1
+16
+horas_trabajadas
+4
+1
+28
+' ingrese el pago por hora '
+5
+1
+13
+pago_por_hora
+6
+1
+15
+sueldo_semanal 
+32
+horas_trabajadas * pago_por_hora
+4
+1
+37
+' Sueldo semanal: '  , sueldo_semanal
+1

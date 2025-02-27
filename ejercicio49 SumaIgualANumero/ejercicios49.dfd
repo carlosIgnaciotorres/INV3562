@@ -1,0 +1,86 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+' Ingresar un números '
+5
+1
+1
+a
+4
+1
+23
+' Ingresar un números '
+5
+1
+1
+b
+4
+1
+23
+' Ingresar un números '
+5
+1
+1
+c
+7
+0
+1
+9
+a + b = c
+7
+0
+1
+9
+a + c = b
+7
+0
+1
+10
+ a + c = b
+7
+0
+1
+9
+b + c = a
+7
+0
+1
+9
+b + c = a
+13
+4
+1
+34
+'la suma de b y c es igual a ' , a
+13
+13
+4
+1
+35
+' la suma de b y c es igual a ' , a
+13
+13
+4
+1
+38
+'  la suma de a y c es igual a b ' , b
+13
+13
+4
+1
+37
+' la suma de a y c es igual a b ' , b
+13
+13
+4
+1
+37
+' la suma de a y b es igual a c ' , c
+13
+1

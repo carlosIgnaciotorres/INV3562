@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+39
+' ingrese el monto total de su compra '
+5
+1
+11
+MontoCompra
+7
+0
+1
+18
+MontoCompra > 1000
+6
+1
+10
+MontoFinal
+11
+MontoCompra
+13
+6
+1
+9
+Descuento
+16
+MontoCompra*0.20
+6
+1
+10
+MontoFinal
+21
+MontoCompra-Descuento
+13
+4
+1
+28
+' debe pagar '  , MontoFinal
+1

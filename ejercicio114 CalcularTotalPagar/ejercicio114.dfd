@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+55
+' ingresar la cantidad de unidades que desea comprar. '
+5
+1
+17
+cantidad_unidades
+4
+1
+43
+' ingresar el precio unitario del producto'
+5
+1
+15
+precio_unitario
+6
+1
+5
+total
+35
+cantidad_unidades * precio_unitario
+4
+1
+29
+'El total a pagar es:', total
+1

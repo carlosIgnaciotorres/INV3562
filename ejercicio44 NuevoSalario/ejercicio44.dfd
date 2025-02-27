@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+' Ingresar salario actual'
+5
+1
+14
+salario_actual
+6
+2
+10
+incremento
+19
+salario_actual*0.25
+13
+nuevo_salario
+25
+salario_actual+incremento
+4
+1
+36
+' nuevo salario es ' , nuevo_salario
+1

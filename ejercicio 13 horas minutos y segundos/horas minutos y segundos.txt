@@ -1,0 +1,1 @@
+Calcular la cantidad de segundos que están incluidos en el número de horas minutos y segundos ingresados por el usuario

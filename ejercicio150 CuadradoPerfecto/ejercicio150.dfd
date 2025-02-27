@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+'  ngresa un número: '
+5
+1
+6
+numero
+6
+2
+4
+raiz
+12
+sqrt(numero)
+16
+ raiz_redondeada
+4
+raiz
+7
+0
+1
+42
+raiz_redondeada * raiz_redondeada = numero
+4
+1
+30
+' No es un cuadrado perfecto '
+13
+4
+1
+27
+' Es un cuadrado perfecto '
+13
+1

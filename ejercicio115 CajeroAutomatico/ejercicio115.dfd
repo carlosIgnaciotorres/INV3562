@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+' ingrese su saldo actual. '
+5
+1
+16
+saldo_disponible
+4
+1
+52
+'  ingrese la cantidad de dinero que desea retirar '
+5
+1
+17
+ cantidad_retirar
+7
+0
+1
+36
+cantidad_retirar <= saldo_disponible
+4
+1
+22
+' saldo insuficiente '
+13
+7
+0
+1
+54
+saldo_disponible = saldo_disponible - cantidad_retirar
+4
+1
+45
+' Saldo insuficiente. Operación no realizada'
+13
+4
+1
+49
+'Retiro exitoso. Saldo actual:', saldo_disponible
+13
+13
+1

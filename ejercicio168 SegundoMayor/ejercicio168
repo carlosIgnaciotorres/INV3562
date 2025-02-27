@@ -1,0 +1,20 @@
+def segundo_mayor(lista):
+    if len(lista) < 2:
+        raise ValueError("Se necesitan al menos dos números")
+    
+    primero, segundo = float('-inf'), float('-inf')
+    
+    for num in lista:
+        if num > primero:
+            segundo, primero = primero, num
+        elif primero > num > segundo:
+            segundo = num
+    
+    if segundo == float('-inf'):
+        raise ValueError("No hay un segundo número mayor válido")
+    
+    return segundo
+
+# Ejemplo de uso
+numeros = [10, 20, 5, 30, 25]
+print("El segundo número mayor es:", segundo_mayor(numeros))

@@ -1,0 +1,78 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+' ingrese el número de entradas '
+5
+1
+1
+N
+6
+1
+13
+lista_numeros
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+5
+1
+6
+numero
+6
+1
+14
+ lista_numeros
+8
+(numero)
+10
+6
+2
+4
+suma
+13
+lista_numeros
+5
+media
+8
+suma / N
+7
+0
+1
+12
+N mod 2 = 0 
+6
+1
+7
+mediana
+22
+lista_numeros * ( N/2)
+13
+6
+1
+7
+mediana
+48
+(lista_numeros(N/2 - 1) + lista_numeros*N/2) / 2
+13
+4
+1
+48
+'  los resultados calculados mediana ' , mediana
+1

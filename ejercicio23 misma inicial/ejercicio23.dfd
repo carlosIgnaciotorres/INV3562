@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'ingrese un nombre'
+5
+1
+7
+Nombre1
+4
+1
+19
+'ingrese un nombre'
+5
+1
+7
+Nombre2
+6
+2
+8
+Inicial1
+24
+Subcadena(Nombre1, 1, 1)
+8
+Inicial2
+24
+Subcadena(Nombre2, 1, 1)
+7
+0
+1
+19
+Inicial1 = Inicial2
+4
+1
+40
+'Los nombres no tienen la misma inicial'
+13
+4
+1
+38
+' Los nombres tienen la misma inicial'
+13
+1

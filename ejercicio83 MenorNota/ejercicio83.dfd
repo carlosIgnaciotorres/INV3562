@@ -1,0 +1,94 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+' ingrese nota 1 '
+5
+1
+2
+n1
+4
+1
+18
+' ingrese nota 2 '
+5
+1
+2
+n2
+4
+1
+19
+' ingrese nota  3 '
+5
+1
+2
+n3
+4
+1
+19
+' ingrese nota  4 '
+5
+1
+2
+n4
+4
+1
+21
+' introduca el emuc '
+5
+1
+3
+emc
+4
+1
+20
+' introduca el fin '
+5
+1
+3
+fin
+6
+1
+8
+promedio
+36
+(n1 + n2 + n3 + n4 + emc + fin) / 6.
+7
+0
+1
+14
+promedio < 10 
+4
+1
+29
+' promedio final ' , promedio
+13
+4
+1
+19
+' ingresa el sust '
+5
+1
+3
+sus
+6
+2
+9
+menornota
+34
+min(n1 , n2 , n3 , n4, emc , fin )
+13
+nuevopromedio
+56
+( n1 + n2 + n3 + n4 + emc + fin - menornota + sust ) / 6
+4
+1
+44
+' nuevo promedio final es '  , nuevopromedio
+13
+1

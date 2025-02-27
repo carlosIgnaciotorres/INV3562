@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+4
+cola
+1
+0
+4
+1
+95
+' 1. Agregar persona a la fila"
+Escribir "2. Sacar persona de la fila"
+Escribir "3. Terminar" '
+5
+1
+6
+opcion
+7
+0
+1
+10
+opcion = 1
+7
+0
+1
+10
+opcion = 2
+4
+1
+22
+' La fila está vacía '
+13
+6
+1
+4
+cola
+2
+-1
+13
+13
+6
+1
+5
+cola 
+8
+cola + 1
+13
+4
+1
+30
+' Personas en la fila ' , cola
+1

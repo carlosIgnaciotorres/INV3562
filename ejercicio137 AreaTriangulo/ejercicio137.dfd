@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+' ingrese la base del triángulo '
+5
+1
+4
+base
+4
+1
+36
+'  ingrese la altura del triángulo '
+5
+1
+6
+altura
+6
+1
+4
+área
+19
+(base * altura) / 2
+4
+1
+35
+' El área del triángulo es: ', área
+1

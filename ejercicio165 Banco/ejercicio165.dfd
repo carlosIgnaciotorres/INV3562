@@ -1,0 +1,185 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+cola
+1
+0
+11
+num_cajeros
+1
+0
+12
+tasa_llegada
+1
+0
+6
+3
+13
+tasa_servicio
+1
+0
+17
+tiempo_simulacion
+1
+0
+7
+cajeros
+2
+10
+6
+3
+7
+cliente
+1
+1
+16
+ cliente_atendid
+1
+1
+1
+i
+1
+1
+4
+1
+33
+' Ingrese el número de cajeros: '
+5
+1
+11
+num_cajeros
+4
+1
+57
+' Ingrese el tiempo promedio entre llegadas (segundos): '
+5
+1
+13
+ tasa_llegada
+4
+1
+65
+' Ingrese el tiempo promedio de atención por cajero (segundos): '
+5
+1
+13
+tasa_servicio
+4
+1
+52
+' Ingrese el tiempo total de simulación (segundos) '
+5
+1
+17
+tiempo_simulacion
+6
+2
+14
+ tiempo_actual
+1
+0
+19
+clientes_atendidos 
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+11
+num_cajeros
+1
+1
+1
+6
+1
+8
+ cajeros
+1
+0
+10
+9
+1
+33
+tiempo_actual < tiempo_simulacion
+6
+1
+7
+cliente
+36
+ tiempo_actual + (1 +  tasa_llegada)
+4
+1
+41
+' Cliente llega en el tiempo: ' , cliente
+8
+1
+1
+i
+1
+1
+1
+1
+11
+num_cajeros
+1
+1
+1
+7
+0
+1
+24
+cajeros = 0 and cola = 0
+13
+6
+2
+16
+cliente_atendido
+6
+(cola)
+7
+cajeros
+35
+tiempo_actual + (1 + tasa_servicio)
+4
+1
+34
+'Cliente atendido por Cajero ', i 
+6
+2
+8
+ cajeros
+1
+0
+18
+clientes_atendidos
+22
+clientes_atendidos + 1
+13
+10
+6
+1
+13
+tiempo_actual
+17
+tiempo_actual + 1
+11
+4
+1
+27
+' Simulación finalizada. ' 
+4
+1
+44
+' Clientes atendidos: ' , clientes_atendidos
+1

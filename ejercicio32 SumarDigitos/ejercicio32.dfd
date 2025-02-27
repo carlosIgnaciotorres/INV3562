@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+' ingrese un número de 3 cifras'
+5
+1
+6
+Número
+6
+3
+8
+Centenas
+12
+Número / 100
+7
+Decenas
+21
+(Número mod 100) / 10
+8
+Unidades
+13
+Número mod 10
+6
+1
+4
+Suma
+29
+Centenas + Decenas + Unidades
+4
+1
+47
+'el valor de la suma de los dígitos es ' , Suma
+1

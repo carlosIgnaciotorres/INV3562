@@ -1,0 +1,1 @@
+Sacar la hipotenusa de un triángulo, rectángulo, pidiendo al usuario el valor de los 2 catetos

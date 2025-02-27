@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+' ingresar radio '
+5
+1
+5
+radio
+6
+1
+1
+L
+16
+2 * 3.14 * radio
+4
+1
+22
+' la longitud es ' , L
+1

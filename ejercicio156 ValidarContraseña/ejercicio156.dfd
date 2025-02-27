@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+' Ingresa una contraseña: ' 
+5
+1
+10
+contraseña
+6
+1
+11
+contraseña 
+2
+''
+6
+1
+8
+longitud
+12
+(contraseña)
+7
+0
+1
+15
+(longitud >= 8)
+4
+1
+23
+' Contraseña inválida '
+13
+4
+1
+21
+' Contraseña válida '
+13
+1

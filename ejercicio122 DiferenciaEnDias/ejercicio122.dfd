@@ -1,0 +1,75 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+16
+' ingrese dia 1'
+5
+1
+4
+dia1
+4
+1
+20
+' ingrese el mes 1 '
+5
+1
+4
+mes1
+4
+1
+20
+' ingrese el año 1 '
+5
+1
+4
+año1
+4
+1
+16
+' ingrese dia 2'
+5
+1
+4
+dia2
+4
+1
+20
+' ingrese el mes 2 '
+5
+1
+4
+mes2
+4
+1
+20
+' ingrese el año 2 '
+5
+1
+4
+año2
+6
+2
+4
+dia1
+18
+(dia1, mes1, año1)
+4
+dia2
+18
+(dia2, mes2, año2)
+6
+1
+10
+diferencia
+18
+abs(días2 - días1)
+4
+1
+57
+' la diferencia en días entre ambas fechas ' , diferencia
+1

@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+' ingresa la base '
+5
+1
+1
+b
+4
+1
+21
+' ingresa la altura '
+5
+1
+1
+h
+6
+1
+8
+diagonal
+19
+sqrt ( b^2  + h^2 )
+4
+1
+50
+' La diagonal del rect 
+a
+´
+ ngulo es ' , diagonal
+1

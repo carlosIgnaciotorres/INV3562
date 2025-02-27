@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+' ngrese un número decimal '
+5
+1
+7
+decimal
+6
+1
+7
+binario
+2
+''
+9
+1
+12
+decimal > 0 
+6
+3
+7
+residuo
+11
+decimal / 2
+7
+binario
+29
+Concatenar(residuo) + binario
+9
+  decimal
+11
+decimal / 2
+11
+4
+1
+35
+' El número binario es: ' , binario
+1

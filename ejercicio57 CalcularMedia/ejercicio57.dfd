@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+suma
+1
+0
+8
+cantidad
+1
+0
+4
+1
+19
+' Ingresar número '
+5
+1
+6
+número
+7
+0
+1
+10
+número = 0
+7
+0
+1
+12
+cantidad > 0
+4
+1
+21
+' números inválidos '
+13
+13
+13
+6
+2
+4
+suma
+13
+suma + número
+8
+cantidad
+12
+cantidad + 1
+13
+6
+1
+5
+media
+15
+suma / cantidad
+4
+1
+23
+' la media es ' , media
+1

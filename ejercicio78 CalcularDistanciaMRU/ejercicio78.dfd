@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+' introduzca la velocidad '
+5
+1
+1
+v
+4
+1
+25
+'  introduzca el teimpo '
+5
+1
+1
+t
+6
+1
+1
+d
+5
+v * t
+4
+1
+43
+' el valor de la distancia calcula es ' , d
+1

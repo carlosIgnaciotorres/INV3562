@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+' dame un valor en kilometros ' 
+5
+1
+10
+kilometros
+6
+2
+6
+metros
+17
+kilometros * 1000
+11
+centimetros
+18
+kilometros * 10000
+4
+1
+21
+'En metros: ', metros
+4
+1
+31
+'En centímetros: ', centimetros
+1

@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+' introdusca el valor inicial ' 
+5
+1
+2
+vi
+4
+1
+29
+' introdusca el valor final' 
+5
+1
+2
+vf
+4
+1
+25
+' introdusca el tiempo ' 
+5
+1
+1
+t
+6
+1
+7
+espacio
+19
+((vi + vf) / 2) * t
+4
+1
+48
+' el espacio recorrido al usuario es ' , espacio
+1

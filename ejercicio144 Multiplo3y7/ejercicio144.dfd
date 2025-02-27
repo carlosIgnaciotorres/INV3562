@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+' ingrese un número '
+5
+1
+6
+número
+7
+0
+1
+16
+número mod 3 = 0
+4
+1
+37
+' El número NO es múltiplo de 3 y 7 '
+13
+7
+0
+1
+16
+número mod 7 = 0
+4
+1
+37
+' El número NO es múltiplo de 3 y 7 '
+13
+4
+1
+34
+' El número es múltiplo de 3 y 7 '
+13
+13
+1

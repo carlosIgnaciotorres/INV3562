@@ -1,0 +1,1 @@
+Dadas las horas trabajadas de una persona y el valor por hora. Calcule su salario e imprimirlo

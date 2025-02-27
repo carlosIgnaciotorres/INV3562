@@ -1,0 +1,93 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+12
+billetes1000
+1
+0
+12
+billetes2000
+1
+0
+13
+billetes10000
+1
+0
+6
+3
+12
+billetes5000
+1
+0
+13
+billetes50000
+1
+0
+12
+illetes20000
+1
+0
+4
+1
+44
+' Ingrese la cantidad de billetes de $1000 '
+5
+1
+12
+billetes1000
+4
+1
+44
+' Ingrese la cantidad de billetes de $2000 '
+5
+1
+12
+billetes2000
+4
+1
+44
+' Ingrese la cantidad de billetes de $5000 '
+5
+1
+12
+billetes5000
+4
+1
+46
+' Ingrese la cantidad de billetes de $10000  '
+5
+1
+13
+billetes10000
+4
+1
+44
+' Ingrese la cantidad de billetes de $20000'
+5
+1
+13
+billetes20000
+4
+1
+17
+' billetes50000 '
+5
+1
+13
+billetes50000
+6
+1
+5
+total
+148
+(billetes1000 * 1000) + (billetes2000 * 2000) + (billetes5000 * 5000) + (billetes10000 * 10000) + (billetes20000 * 20000) + (billetes50000 * 50000) 
+4
+1
+46
+' El total de dinero en la caja es: $' , total
+1

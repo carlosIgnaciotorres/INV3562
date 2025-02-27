@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+36
+'ingresar un número entero positivo'
+5
+1
+6
+número
+6
+2
+4
+suma
+1
+0
+16
+cantidad_digitos
+1
+0
+9
+1
+10
+número > 0
+6
+1
+6
+dígito
+13
+número MOD 10
+6
+2
+4
+suma
+13
+suma + dígito
+16
+cantidad_digitos
+20
+cantidad_digitos + 1
+6
+1
+6
+número
+18
+trunc(número / 10)
+4
+1
+40
+'Cantidad de dígitos:', cantidad_digitos
+4
+1
+28
+'Suma de los dígitos:', suma
+11
+1

@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+47
+' introduzca el valor de un lado del cuadrado '
+5
+1
+4
+lado
+6
+1
+4
+area
+13
+ lado * lado 
+4
+1
+30
+' el area calcula es '  , area
+1

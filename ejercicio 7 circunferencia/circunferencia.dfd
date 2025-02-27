@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+radio
+1
+0
+8
+longitud
+1
+0
+2
+pi
+6
+3.1416
+4
+1
+19
+'digite el radio: '
+5
+1
+5
+radio
+6
+1
+8
+longitud
+10
+2*pi*radio
+4
+1
+50
+' la longitud de la circuferencia es: ' , longitud
+1

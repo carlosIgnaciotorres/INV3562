@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'Ingresar el primer número '
+5
+1
+4
+num1
+4
+1
+29
+'Ingresar el segundo número '
+5
+1
+4
+num2
+7
+0
+1
+8
+num1 > 0
+7
+0
+1
+8
+num2 > 0
+4
+1
+24
+' el numero es negativo'
+13
+4
+1
+25
+' si es positivo ' , num2
+13
+13
+4
+1
+34
+' el numero es positivo es' , num1
+13
+1

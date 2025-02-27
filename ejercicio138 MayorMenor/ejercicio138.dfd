@@ -1,0 +1,77 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+' cuántos números va a ingresar '
+5
+1
+1
+N
+6
+2
+5
+mayor
+2
+-8
+5
+menor
+1
+8
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+5
+1
+6
+numero
+7
+0
+1
+14
+numero > mayor
+13
+6
+1
+5
+mayor
+6
+numero
+13
+7
+0
+1
+14
+numero < menor
+13
+6
+1
+5
+mayor
+6
+numero
+13
+10
+4
+1
+23
+'Número mayor: ', mayor
+4
+1
+24
+' Número menor: ', menor
+1

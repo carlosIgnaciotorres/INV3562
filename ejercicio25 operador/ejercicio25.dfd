@@ -1,0 +1,91 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'ingresa el numero'
+5
+1
+7
+Numero1
+4
+1
+19
+'ingresa el numero'
+5
+1
+7
+Numero2
+4
+1
+21
+'ingresa un operador'
+5
+1
+8
+Operador
+7
+0
+1
+14
+Operador = '+'
+7
+0
+1
+14
+Operador = '*'
+7
+0
+1
+14
+Operador = '/'
+7
+0
+1
+14
+Operador = '-'
+4
+1
+20
+'operacion invalida'
+13
+6
+1
+9
+resultado
+17
+Numero1 - Numero2
+13
+13
+6
+1
+9
+resultado
+17
+Numero1 / Numero2
+13
+13
+6
+1
+9
+resultado
+17
+Numero1 * Numero2
+13
+13
+6
+1
+9
+resultado
+17
+Numero1 + Numero2
+13
+4
+1
+31
+' el resultado es ' , resultado
+1

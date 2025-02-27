@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+' Ingresar horas '
+5
+1
+5
+horas
+4
+1
+20
+' Ingresar minutos '
+5
+1
+7
+minutos
+4
+1
+20
+' Ingresar segundos'
+5
+1
+8
+segundos
+6
+3
+12
+seg_de_horas
+10
+horas*3600
+14
+seg_de_minutos
+10
+minutos*60
+14
+total_segundos
+36
+seg_de_horas+seg_de_minutos+segundos
+4
+1
+41
+' total de segundos es ' , total_segundos
+1
