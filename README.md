@@ -26,7 +26,7 @@ Esta tabla clasifica problemas de programación según los conceptos y operacion
 
 | No | Problema | Datos | Entrada | Salida | Casteo | Aritmética | Relacionales | Lógicos | Condicionales | Ciclo | Matrices | Funciones |
 |----|----------|-------|---------|--------|--------|------------|--------------|---------|---------------|-------|----------|-----------|
-| 1 | (Imprimir un hola mundo)[https://github.com/carlosIgnaciotorres/INV3562/tree/main/ejercicio%201%20hola%20mundo] | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
+| 1 | [Imprimir un hola mundo](https://github.com/carlosIgnaciotorres/INV3562/tree/main/ejercicio%201%20hola%20mundo) | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
 | 2 | Ingresa tu nombre | ✗ | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
 | 3 | Suma dos números | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
 | 4 | Resta dos números | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
