@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+' Ingresar horas trabajadas '
+5
+1
+16
+horas_trabajadas
+4
+1
+27
+' Ingresar valor por hora '
+5
+1
+14
+valor_por_hora
+6
+3
+13
+salario_total
+31
+horas_trabajadas*valor_por_hora
+12
+descuento_ss
+18
+salario_total*0.10
+15
+descuento_fondo
+18
+salario_total*0.01
+6
+1
+12
+salario_neto
+42
+salario_total-descuento_ss-descuento_fondo
+4
+1
+33
+' salario neto es ' ,salario_neto
+1

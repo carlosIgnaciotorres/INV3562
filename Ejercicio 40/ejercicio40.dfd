@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+' ingrese los valores de el catetos '
+5
+1
+7
+Cateto1
+4
+1
+37
+' ingrese los valores de el catetos '
+5
+1
+7
+Cateto2
+6
+3
+9
+Cuadrado1
+17
+Cateto1 * Cateto1
+9
+Cuadrado2
+17
+Cateto2 * Cateto2
+13
+SumaCuadrados
+21
+Cuadrado1 + Cuadrado2
+6
+1
+10
+Hipotenusa
+19
+sqrt(SumaCuadrados)
+4
+1
+56
+' el valor de la hipotenusa calculada es ' ,  Hipotenusa
+1

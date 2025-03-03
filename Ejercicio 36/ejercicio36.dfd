@@ -1,0 +1,68 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+' ingrese un número'
+5
+1
+7
+Número1
+4
+1
+20
+' ingrese un número'
+5
+1
+7
+Número2
+4
+1
+20
+' ingrese un número'
+5
+1
+7
+Número3
+7
+0
+1
+18
+Número2 >= Número3
+7
+0
+1
+18
+Número1 >= Número3
+7
+0
+1
+18
+Número1 >= Número2
+4
+1
+40
+' el orden' ,  Número3, Número2, Número1
+13
+4
+1
+39
+'el orden' ,  Número3, Número1, Número2
+13
+13
+4
+1
+39
+ 'el orden' , Número2, Número1, Número3
+13
+13
+4
+1
+43
+' el orden es ' , Número1, Número2, Número3
+13
+1

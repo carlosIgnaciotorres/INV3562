@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+'ingrese numero 1'
+5
+1
+7
+número1
+4
+1
+18
+'ingrese numero 2'
+5
+1
+7
+número2
+7
+0
+1
+17
+número1 > número2
+7
+0
+1
+17
+número1 < número2
+13
+4
+1
+30
+'número1 es menor que número2'
+13
+7
+0
+1
+17
+número1 = número2
+13
+4
+1
+28
+'número1 es igual a número2'
+13
+13
+4
+1
+30
+'número1 es mayor que número2'
+13
+1

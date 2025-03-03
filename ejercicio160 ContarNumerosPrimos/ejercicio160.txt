@@ -1,1 +1,0 @@
-Contar cuántos números primos hay en una lista de N números ingresados.

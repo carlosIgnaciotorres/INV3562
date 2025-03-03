@@ -1,1 +1,0 @@
-Leer una cantidad de billetes y monedas en una caja y calcular el total de dinero.

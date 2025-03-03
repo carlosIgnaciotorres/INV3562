@@ -1,0 +1,1 @@
+Calcular la diferencia en minutos entre dos horas ingresadas en formato HH:MM.

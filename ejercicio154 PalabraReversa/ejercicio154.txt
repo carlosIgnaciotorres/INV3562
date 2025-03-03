@@ -1,1 +1,0 @@
-Leer una palabra y mostrarla en reversa.

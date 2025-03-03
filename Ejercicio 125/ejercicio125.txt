@@ -1,0 +1,1 @@
+ Verificar fecha válida: Comprobar que día, mes y año estén en rangos correctos.

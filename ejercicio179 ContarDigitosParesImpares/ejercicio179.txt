@@ -1,1 +1,0 @@
- Determinar si un número tiene más dígitos impares o pares.

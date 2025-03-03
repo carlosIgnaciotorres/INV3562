@@ -1,0 +1,1 @@
+Determinar si un estudiante recibe una beca en base a su promedio y nivel socioeconómico.

@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+ ' ingresar la edad del hermano 1 '
+5
+1
+12
+EdadHermano1
+4
+1
+35
+ ' ingresar la edad del hermano 2 '
+5
+1
+12
+EdadHermano2
+7
+0
+1
+27
+EdadHermano1 > EdadHermano2
+6
+2
+5
+Mayor
+12
+EdadHermano2
+5
+Menor
+12
+EdadHermano1
+6
+1
+10
+Diferencia
+13
+Mayor - Menor
+13
+6
+2
+5
+Mayor
+12
+EdadHermano1
+5
+Menor
+12
+EdadHermano2
+6
+1
+10
+Diferencia
+11
+Mayor-Menor
+13
+4
+1
+33
+'El hermano mayor tiene ' , Mayor
+4
+1
+46
+' La diferencia de edades es de ' , Diferencia
+1

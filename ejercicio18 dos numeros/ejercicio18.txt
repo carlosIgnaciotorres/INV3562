@@ -1,1 +1,0 @@
- Ingrese 2 números desde el teclado e imprima solo los positivos

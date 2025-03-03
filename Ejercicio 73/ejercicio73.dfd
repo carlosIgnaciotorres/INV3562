@@ -1,0 +1,114 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+'ingrese nota promacion 1'
+5
+1
+18
+nota_programacion1
+4
+1
+26
+'ingrese nota promacion 2'
+5
+1
+18
+nota_programacion2
+4
+1
+26
+'ingrese nota promacion 3'
+5
+1
+18
+nota_programacion3
+4
+1
+31
+'ingrese nota de matematicas 1'
+5
+1
+17
+nota_matematicas1
+4
+1
+31
+'ingrese nota de matematicas 2'
+5
+1
+17
+nota_matematicas2
+4
+1
+31
+'ingrese nota de matematicas 3'
+5
+1
+17
+nota_matematicas3
+6
+3
+9
+promedio1
+44
+(nota_programacion1 + nota_matematicas1) / 2
+9
+promedio2
+44
+(nota_programacion2 + nota_matematicas2) / 2
+9
+promedio3
+45
+ (nota_programacion3 + nota_matematicas3) / 2
+7
+0
+1
+16
+promedio1 <= 7.5
+4
+1
+38
+' estudainte 1 no aprobo ' , promedio1
+13
+4
+1
+49
+'Estudiante 1: Aprobado con promedio ', promedio1
+13
+7
+0
+1
+16
+promedio2 <= 7.5
+4
+1
+52
+'Estudiante 2: No Aprobado con promedio ', promedio2
+13
+4
+1
+49
+'Estudiante 2: Aprobado con promedio ', promedio2
+13
+7
+0
+1
+16
+promedio3 <= 7.5
+4
+1
+52
+'Estudiante 3: No Aprobado con promedio ', promedio3
+13
+4
+1
+49
+'Estudiante 3: Aprobado con promedio ', promedio3
+13
+1

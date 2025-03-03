@@ -1,1 +1,0 @@
-Determinar si un texto ingresado es un palíndromo.

@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+39
+' ingrese el valor neto del producto. '
+5
+1
+10
+valor_neto
+4
+1
+51
+' ingrese el porcentaje de IVA que se debe aplica '
+5
+1
+14
+porcentaje_iva
+6
+2
+3
+iva
+35
+valor_neto * (porcentaje_iva / 100)
+11
+costo_total
+16
+valor_neto + iva
+4
+1
+44
+' Costo total del producto: ' ,  costo_total
+1

@@ -1,0 +1,17 @@
+Algoritmo ImprimirPositivos
+    Definir num1, num2 Como Real
+	
+    Escribir "Ingrese el primer número: "
+    Leer num1
+	
+    Escribir "Ingrese el segundo número: "
+    Leer num2
+	
+    Si num1 > 0 Entonces
+        Escribir "El primer número es positivo: ", num1
+    FinSi
+	
+    Si num2 > 0 Entonces
+        Escribir "El segundo número es positivo: ", num2
+    FinSi
+FinAlgoritmo

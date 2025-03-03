@@ -1,0 +1,1 @@
+Calcular la diagonal de un rectángulo a partir de la base y altura.

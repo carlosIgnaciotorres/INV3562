@@ -1,0 +1,1 @@
+Determinar el promedio de edad de un grupo de personas ingresando cada edad.

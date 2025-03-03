@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class PalabraReversa {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        
+        System.out.print("Ingresa una palabra: ");
+        String palabra = scanner.nextLine();
+        
+        String palabraReversa = new StringBuilder(palabra).reverse().toString();
+        
+        System.out.println("La palabra en reversa es: " + palabraReversa);
+    }
+}

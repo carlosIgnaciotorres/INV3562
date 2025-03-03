@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+44
+' ingrese la cantidad de camisas compradas '
+5
+1
+15
+CantidadCamisas
+4
+1
+46
+' ingrese  el precio unitario de cada camisa.'
+5
+1
+14
+PrecioUnitario
+6
+1
+11
+PrecioTotal
+32
+CantidadCamisas * PrecioUnitario
+7
+0
+1
+20
+CantidadCamisas >= 3
+6
+1
+9
+Descuento
+18
+PrecioTotal * 0.10
+6
+1
+11
+TotalAPagar
+21
+PrecioTotal-Descuento
+13
+6
+1
+9
+Descuento
+18
+PrecioTotal * 0.20
+6
+1
+11
+TotalAPagar
+21
+PrecioTotal-Descuento
+13
+4
+1
+38
+'  el total a pagar es ' , TotalAPagar
+1

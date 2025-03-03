@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+40
+' ingrese El monto de dinero invertido '
+5
+1
+14
+MontoInvertido
+4
+1
+36
+' ingrese La tasa de interés anual '
+5
+1
+11
+TasaInteres
+6
+1
+9
+Intereses
+34
+MontoInvertido*  TasaInteres / 100
+7
+0
+1
+16
+Intereses > 7000
+6
+1
+10
+MontoFinal
+14
+MontoInvertido
+13
+6
+1
+10
+MontoFinal
+24
+MontoInvertido+Intereses
+13
+4
+1
+60
+' Los intereses generados por la inversión son ' , Intereses
+4
+1
+35
+' el monto final es ' ,  MontoFinal
+1

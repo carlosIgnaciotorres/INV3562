@@ -1,0 +1,65 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+8
+intentos
+1
+0
+12
+dato_correct
+17
+' valorEsperado '
+4
+1
+19
+' ingrese un dato '
+5
+1
+12
+dato_usuario
+7
+0
+1
+27
+dato_usuario = dato_correct
+4
+1
+24
+' Intentar nuevamenten '
+6
+1
+8
+intentos
+12
+intentos + 1
+7
+0
+1
+12
+intentos < 3
+4
+1
+47
+' Has agotado los 3 intentos. Acceso denegado '
+13
+4
+1
+19
+' ingrese un dato '
+5
+1
+12
+dato_usuario
+13
+13
+4
+1
+27
+' Dato correcto ingresado '
+13
+1

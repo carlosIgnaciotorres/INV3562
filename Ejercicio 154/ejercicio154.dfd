@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+' ingrese una palabra '
+5
+1
+7
+palabra
+6
+3
+8
+longitud
+9
+'palabra'
+17
+  palabra_reversa
+2
+''
+8
+palabra 
+2
+''
+6
+1
+8
+longitud
+2
+''
+8
+1
+1
+i
+1
+10
+'longitud'
+1
+1
+1
+1
+2
+-1
+6
+1
+15
+palabra_reversa
+42
+palabra_reversa + Subcadena(palabra, i, i)
+10
+4
+1
+49
+'  La palabra en reversa es: ' ,  palabra_reversa
+1

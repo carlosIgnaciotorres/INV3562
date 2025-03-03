@@ -1,1 +1,0 @@
-Calcular la distancia entre dos puntos en un plano cartesiano ingresando sus coordenadas.

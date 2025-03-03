@@ -1,0 +1,1 @@
+Simular una tienda en la que el usuario compra productos y calcula el total de la compra.
