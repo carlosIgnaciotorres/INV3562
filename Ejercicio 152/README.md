@@ -1,6 +1,14 @@
 # Problema
-Aquí debe ir la descripción del problema
+
+Juego educativo para niños sobre propiedades numéricas.
+
+## Restricciones
+
+- Si es múltiplo de 5, mostrar icono de estrella.
+- Si es cero, mostrar mensaje especial.
+- Ignorar decimales.
+
 # Clasificación
 |  | Datos | Entrada | Salida | Casteo | Aritmética | Relacionales | Lógicos | Condicionales | Ciclo | Matrices | Funciones |
-|----------|-------|---------|--------|--------|------------|--------------|---------|---------------|-------|----------|-----------|
+|----------|-------|---------|--------|--------|------------|--------------|---------|---------------|-------|----------|-------------|
 | Características | ✗ | ✗ | ✓ | ✗ | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |

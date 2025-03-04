@@ -1,6 +1,13 @@
 # Problema
-Aquí debe ir la descripción del problema
+
+Calculadora para operaciones básicas en un cajero automático.
+
+## Restricciones
+
+- Validar símbolos matemáticos permitidos: +, -, *, /.
+- Manejar división por cero con mensaje claro.
+
 # Clasificación
 |  | Datos | Entrada | Salida | Casteo | Aritmética | Relacionales | Lógicos | Condicionales | Ciclo | Matrices | Funciones |
-|----------|-------|---------|--------|--------|------------|--------------|---------|---------------|-------|----------|-----------|
+|----------|-------|---------|--------|--------|------------|--------------|---------|---------------|-------|----------|-------------|
 | Características | ✗ | ✓ | ✓ | ✗ | ✓ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ |

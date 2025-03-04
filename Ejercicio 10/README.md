@@ -1,6 +1,13 @@
 # Problema
-Aquí debe ir la descripción del problema
+
+Sistema de carrito de compras en línea.
+
+## Restricciones
+
+- Total de compra > $0.
+- Descuento aplicado solo una vez.
+
 # Clasificación
 |  | Datos | Entrada | Salida | Casteo | Aritmética | Relacionales | Lógicos | Condicionales | Ciclo | Matrices | Funciones |
-|----------|-------|---------|--------|--------|------------|--------------|---------|---------------|-------|----------|-----------|
+|----------|-------|---------|--------|--------|------------|--------------|---------|---------------|-------|----------|-------------|
 | Características | ✗ | ✓ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
