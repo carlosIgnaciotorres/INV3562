@@ -26,7 +26,7 @@ Esta tabla clasifica problemas de programación según los conceptos y operacion
 
 | No | Problema | Datos | Entrada | Salida | Casteo | Aritmética | Relacionales | Lógicos | Condicionales | Ciclo | Matrices | Funciones |
 |----|----------|-------|---------|--------|--------|------------|--------------|---------|---------------|-------|----------|-----------|
-| 1 | [[Imprimir un hola mundo](https://github.com/carlosIgnaciotorres/INV3562/tree/main/ejercicio%201%20hola%20mundo)](https://github.com/carlosIgnaciotorres/INV3562/tree/main/Ejercicio1) | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
+| 1 | [Imprimir un hola mundo](https://github.com/carlosIgnaciotorres/INV3562/tree/main/Ejercicio1) | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
 | 2 | [Ingresa tu nombre](https://github.com/carlosIgnaciotorres/INV3562/tree/main/Ejercicio2) | ✗ | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
 | 3 | [Suma dos números](https://github.com/carlosIgnaciotorres/INV3562/tree/main/Ejercicio3) | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
 | 4 | [Resta dos números](https://github.com/carlosIgnaciotorres/INV3562/tree/main/Ejercicio4) | ✗ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ |
