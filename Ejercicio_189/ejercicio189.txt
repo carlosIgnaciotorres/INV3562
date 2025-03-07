@@ -1,0 +1,1 @@
+Calcular la media de un conjunto de números positivos ingresados hasta que se ingrese un número negativo.

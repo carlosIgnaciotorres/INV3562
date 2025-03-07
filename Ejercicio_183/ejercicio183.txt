@@ -1,0 +1,1 @@
+Mostrar los números primos entre 1 y un número N ingresado.

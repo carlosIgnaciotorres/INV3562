@@ -1,0 +1,1 @@
+Crear una función que calcule la distancia entre dos puntos en un plano cartesiano.

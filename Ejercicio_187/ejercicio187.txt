@@ -1,0 +1,1 @@
+Mostrar el producto de los primeros N números impares.

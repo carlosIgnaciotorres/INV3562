@@ -1,0 +1,1 @@
+Mostrar un triángulo de asteriscos de altura N ingresada por el usuario.

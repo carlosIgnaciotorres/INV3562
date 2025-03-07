@@ -1,0 +1,1 @@
+ Simular el lanzamiento de dos dados y contar cuántas veces sale un doble.

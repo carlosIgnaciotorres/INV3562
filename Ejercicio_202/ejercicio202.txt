@@ -1,0 +1,1 @@
+ Generar la serie de los primeros N números pentagonales.

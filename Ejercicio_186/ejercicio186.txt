@@ -1,0 +1,1 @@
+Generar los primeros 10 números de la sucesión de Padovan.

@@ -1,0 +1,1 @@
+ Generar una pirámide de números de altura N.
