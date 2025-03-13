@@ -1,0 +1,65 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+' Ingrese un número: '
+5
+1
+1
+N
+6
+2
+1
+a
+1
+0
+1
+b
+1
+1
+9
+1
+6
+b <= N
+6
+3
+4
+fib1
+1
+a
+4
+fib2
+1
+b
+1
+a
+1
+b
+6
+1
+1
+b
+8
+a + fib1
+11
+7
+0
+1
+24
+(N - fib1) <= (fib2 - N)
+4
+1
+49
+' El número de Fibonacci más cercano es: ', fib2 
+13
+4
+1
+47
+'El número de Fibonacci más cercano es: ', fib1
+13
+1

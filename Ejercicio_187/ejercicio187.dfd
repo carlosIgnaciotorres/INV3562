@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+' ingrese un numero ' 
+5
+1
+1
+N
+6
+1
+8
+producto
+1
+1
+8
+1
+1
+i
+1
+1
+0
+1
+3
+N-1
+1
+1
+1
+6
+2
+5
+impar
+9
+2 * i + 1
+8
+producto
+16
+producto * impar
+10
+4
+1
+34
+' El producto de los primeros ', N
+4
+1
+33
+ ' números impares es ', producto
+1

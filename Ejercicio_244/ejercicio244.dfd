@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+39
+' Ingrese el valor del lado del cubo: '
+5
+1
+4
+lado
+6
+1
+7
+volumen
+18
+lado * lado * lado
+4
+1
+36
+' El volumen del cubo es ' , volumen
+1

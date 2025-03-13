@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+39
+' Ingrese la cantidad de lanzamientos '
+5
+1
+1
+N
+6
+1
+5
+caras
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+7
+0
+1
+5
+1 = 1
+13
+6
+1
+5
+caras
+9
+caras + 1
+13
+10
+6
+1
+9
+resultado
+9
+caras / N
+4
+1
+52
+' La probabilidad de obtener cara es: ' ,  resultado
+1

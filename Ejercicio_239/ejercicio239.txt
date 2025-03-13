@@ -1,0 +1,1 @@
+. Sumar los dígitos de los números pares en una lista y los de los impares por separado.

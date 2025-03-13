@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+' Ingrese el valor de N: '
+5
+1
+1
+N
+6
+2
+13
+sumaCuadrados
+1
+0
+12
+cuadradoSuma
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+6
+2
+13
+sumaCuadrados
+23
+sumaCuadrados + (i * i)
+12
+cuadradoSuma
+16
+cuadradoSuma + i
+10
+6
+2
+12
+cuadradoSuma
+27
+cuadradoSuma * cuadradoSuma
+12
+  diferencia
+28
+cuadradoSuma - sumaCuadrados
+4
+1
+34
+' La diferencia es: ' , diferencia
+1

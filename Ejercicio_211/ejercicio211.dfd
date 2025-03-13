@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+48
+' Ingrese la longitud del lado del pentágono:  '
+5
+1
+1
+L
+6
+3
+10
+ Perimetro
+5
+5 * L
+7
+apotema
+17
+L / (2 * tan(36))
+5
+Area 
+25
+(Perimetro * apotema) / 2
+4
+1
+31
+' El perímetro es: ', Perimetro
+4
+1
+23
+' El área es:  ' , Area
+1

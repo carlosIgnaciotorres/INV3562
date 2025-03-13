@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+' Ingrese un número '
+5
+1
+1
+N
+6
+1
+9
+invertido
+1
+0
+9
+1
+6
+ N > 0
+6
+3
+6
+digito
+8
+N MOD 10
+9
+invertido
+12
+ 10 + digito
+1
+N
+6
+N / 10
+11
+4
+1
+31
+' numero invertido ', invertido
+1

@@ -1,0 +1,1 @@
+ Generar un número aleatorio entre dos valores dados por el usuario y verificar si es par o impar.

@@ -1,1 +1,0 @@
-Contar cuántos caracteres especiales hay en un texto ingresado.

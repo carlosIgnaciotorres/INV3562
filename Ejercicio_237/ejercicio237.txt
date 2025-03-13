@@ -1,1 +1,0 @@
- Calcular la moda de una lista de calificaciones y mostrar la distribución.

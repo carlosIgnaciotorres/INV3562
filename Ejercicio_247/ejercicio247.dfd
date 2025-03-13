@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+66
+' Calcular el promedio de N números ingresados por el usuario.
+ '
+5
+1
+1
+N
+6
+1
+4
+suma
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+22
+' Ingrese un número: '
+5
+1
+6
+numero
+6
+1
+4
+suma
+13
+suma + numero
+10
+6
+1
+8
+promedio
+8
+suma / N
+4
+1
+55
+' El promedio de los números ingresados es:' , promedio
+1

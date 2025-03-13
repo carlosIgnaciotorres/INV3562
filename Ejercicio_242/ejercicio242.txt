@@ -1,0 +1,1 @@
+ Generar una secuencia de números que cumplan una condición dada.

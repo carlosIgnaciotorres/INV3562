@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+' Ingrese el primer número: '
+5
+1
+4
+num1
+4
+1
+30
+' Ingrese el segundo número: '
+5
+1
+4
+num2
+7
+0
+1
+11
+num1 < num2
+6
+2
+9
+ordenado1
+4
+num1
+9
+ordenado2
+4
+num2
+7
+0
+1
+21
+ordenado1 = ordenado2
+4
+1
+26
+' No es una permutación. '
+13
+4
+1
+23
+' Es una permutación. '
+13
+13
+4
+1
+26
+' No es una permutación. '
+13
+1

@@ -1,0 +1,54 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+' Ingrese el número base (X): '
+5
+1
+1
+X
+4
+1
+33
+' Ingrese el límite máximo (N): '
+5
+1
+1
+N
+6
+1
+8
+contador
+1
+1
+9
+1
+19
+(X * contador) <= N
+6
+1
+8
+multiplo
+12
+X * contador
+4
+1
+8
+multiplo
+6
+1
+8
+contador
+12
+contador + 1
+11
+4
+1
+37
+' Secuencia generada correctamente. '
+1

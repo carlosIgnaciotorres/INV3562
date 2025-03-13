@@ -1,0 +1,1 @@
+Simular una tienda donde el usuario compra productos hasta que decide salir y luego muestra el total.

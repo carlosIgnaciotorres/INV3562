@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'Ingresar número'
+5
+1
+1
+N
+9
+1
+5
+N < 1
+6
+1
+4
+suma
+1
+0
+9
+1
+5
+N > 0
+6
+3
+6
+digito
+8
+N MOD 10
+4
+suma
+25
+ suma + (digito * digito)
+1
+N
+7
+ N / 10
+11
+6
+1
+1
+N
+4
+suma
+11
+7
+0
+1
+5
+N = 1
+4
+1
+26
+' El número no es feliz. '
+13
+4
+1
+22
+' El número es feliz '
+13
+1

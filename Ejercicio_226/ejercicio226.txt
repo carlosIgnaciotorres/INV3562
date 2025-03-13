@@ -1,1 +1,0 @@
-. Multiplicar dos matrices de tamaño N x M ingresadas por el usuario.

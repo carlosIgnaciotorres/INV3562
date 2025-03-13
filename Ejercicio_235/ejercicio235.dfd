@@ -1,0 +1,115 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+51
+' Ingrese la cantidad de elementos en las listas ' 
+5
+1
+1
+N
+4
+1
+45
+'Ingrese los elementos de la primera lista: '
+8
+1
+1
+i
+1
+1
+0
+1
+1
+N
+1
+1
+1
+5
+1
+9
+lista1(i)
+10
+4
+1
+44
+'Ingrese los elementos de la segunda lista:'
+8
+1
+1
+i
+1
+1
+0
+1
+1
+N
+1
+1
+1
+5
+1
+10
+ lista2(i)
+10
+8
+1
+1
+i
+1
+1
+0
+1
+1
+N
+1
+1
+1
+8
+1
+1
+j
+1
+1
+0
+1
+1
+N
+1
+1
+1
+7
+0
+1
+21
+lista1(i) = lista2(j)
+13
+6
+1
+10
+ lista2(j)
+6
+-99999
+13
+10
+7
+0
+1
+5
+N = N
+4
+1
+49
+' Las listas son iguales sin importar el orden. '
+13
+4
+1
+29
+' Las listas no son iguales '
+13
+10
+1

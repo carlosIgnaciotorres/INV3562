@@ -1,1 +1,0 @@
-Determinar la diferencia entre el número mayor y el menor en una lista.

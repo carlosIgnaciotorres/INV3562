@@ -1,1 +1,0 @@
-. Calcular la sumatoria de los inversos de los números primos hasta un límite N.

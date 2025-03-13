@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+' Ingrese un número: '
+5
+1
+1
+N
+6
+2
+4
+suma
+1
+0
+1
+i
+1
+1
+9
+1
+8
+suma < N
+6
+2
+4
+suma
+8
+suma + i
+1
+i
+8
+suma + i
+11
+7
+0
+1
+8
+suma = N
+4
+1
+41
+' El número no es un cuadrado perfecto. '
+13
+4
+1
+38
+' El número es un cuadrado perfecto. '
+13
+1

@@ -1,0 +1,1 @@
+Simular una caja registradora que recibe precios de productos hasta que el usuario ingrese un 0 y luego muestra el total.

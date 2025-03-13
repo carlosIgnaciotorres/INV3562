@@ -1,0 +1,105 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+10
+sumaTotal 
+1
+0
+8
+posicion
+1
+1
+4
+1
+34
+' Ingrese el número a verificar: '
+5
+1
+14
+numeroOriginal
+6
+1
+6
+numero
+14
+numeroOriginal
+9
+1
+10
+numero > 0
+6
+1
+6
+digito
+13
+numero mod 10
+7
+0
+1
+19
+posicion mod 2 = 0 
+6
+1
+9
+sumaTotal
+18
+sumaTotal + digito
+13
+6
+1
+5
+doble
+10
+digito * 2
+7
+0
+1
+8
+oble > 9
+13
+6
+1
+5
+doble
+9
+doble - 9
+13
+6
+1
+9
+sumaTotal
+17
+sumaTotal + doble
+13
+6
+2
+6
+numero
+18
+trunc(numero / 10)
+8
+posicion
+12
+posicion + 1
+11
+7
+0
+1
+20
+sumaTotal mod 10 = 0
+4
+1
+67
+'El número', numeroOriginal, 'NO es válido según la regla de Luhn.'
+13
+4
+1
+64
+'El número', numeroOriginal, 'es válido según la regla de Luhn.'
+13
+1

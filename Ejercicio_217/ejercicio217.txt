@@ -1,1 +1,0 @@
- Contar cuántos números en una lista son mayores que la media.

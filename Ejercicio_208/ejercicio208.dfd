@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+'Ingrese un número:'
+5
+1
+1
+N
+6
+1
+4
+raiz
+7
+sqrt(N)
+7
+0
+1
+16
+raiz * raiz = N 
+4
+1
+36
+'El número no es una raíz perfecta.'
+13
+4
+1
+34
+' El número es una raíz perfecta '
+13
+1

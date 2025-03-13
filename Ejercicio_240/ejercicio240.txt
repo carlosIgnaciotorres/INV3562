@@ -1,0 +1,1 @@
+. Determinar si un número cumple la regla de Luhn (usado en tarjetas de crédito).

@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+' Ingrese un número ' 
+5
+1
+1
+N
+9
+1
+8
+N >= 10 
+6
+1
+4
+suma
+1
+0
+9
+1
+5
+N > 0
+6
+3
+6
+digito
+8
+N mod 10
+4
+suma
+13
+suma + digito
+1
+N
+6
+N / 10
+11
+6
+1
+1
+N
+4
+suma
+11
+4
+1
+44
+' Suma de los dígitos hasta una cifra: ' , N
+1

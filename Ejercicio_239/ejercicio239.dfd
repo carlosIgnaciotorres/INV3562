@@ -1,0 +1,103 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+9
+sumaPares
+1
+0
+11
+sumaImpares
+1
+0
+4
+1
+35
+' Ingrese la cantidad de números: '
+5
+1
+1
+n
+8
+1
+1
+i
+1
+1
+1
+1
+1
+n
+1
+1
+1
+4
+1
+23
+'Ingrese el número ', i
+5
+1
+6
+numero
+6
+1
+11
+sumaDigitos
+1
+0
+6
+1
+5
+ temp
+7
+numero 
+9
+1
+10
+ temp > 0 
+6
+3
+6
+digito
+11
+temp mod 10
+11
+sumaDigitos
+20
+sumaDigitos + digito
+4
+temp
+16
+trunc(temp / 10)
+11
+7
+0
+1
+17
+numero mod 2 = 0 
+13
+6
+2
+11
+  sumaPares
+23
+sumaPares + sumaDigitos
+12
+ sumaImpares
+25
+sumaImpares + sumaDigitos
+13
+10
+4
+1
+55
+'Suma de los dígitos de los números pares: ', sumaPares
+4
+1
+60
+' Suma de los dígitos de los números impares: ', sumaImpares
+1

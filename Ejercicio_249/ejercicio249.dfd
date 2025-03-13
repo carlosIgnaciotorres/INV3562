@@ -1,0 +1,135 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+15
+votosCandidato1
+1
+0
+15
+votosCandidato2
+1
+0
+15
+votosCandidato3
+1
+0
+4
+1
+36
+' Ingrese la cantidad de votantes: '
+5
+1
+1
+N
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+60
+' Votación: 1) Candidato A, 2) Candidato B, 3) Candidato C '
+5
+1
+4
+voto
+7
+0
+1
+11
+voto = voto
+4
+1
+34
+'Voto inválido, intente de nuevo '
+6
+1
+1
+i
+4
+i -1
+13
+6
+3
+15
+votosCandidato1
+19
+votosCandidato1 + 1
+15
+votosCandidato2
+19
+votosCandidato2 + 1
+15
+votosCandidato3
+19
+votosCandidato3 + 1
+13
+4
+1
+23
+' Resultados finales: '
+4
+1
+42
+'Candidato A: ', votosCandidato1, ' votos'
+4
+1
+42
+'Candidato B: ', votosCandidato2, ' votos'
+4
+1
+42
+'Candidato C: ', votosCandidato3, ' votos'
+10
+7
+0
+1
+71
+votosCandidato1 > votosCandidato2 AND votosCandidato1 > votosCandidato3
+7
+0
+1
+71
+votosCandidato2 > votosCandidato1 AND votosCandidato2 > votosCandidato3
+7
+0
+1
+71
+votosCandidato3 > votosCandidato1 AND votosCandidato3 > votosCandidato2
+4
+1
+18
+' Hubo un empate '
+13
+4
+1
+32
+' El ganador es el Candidato C '
+13
+13
+4
+1
+32
+' El ganador es el Candidato B '
+13
+13
+4
+1
+32
+' El ganador es el Candidato A '
+13
+1

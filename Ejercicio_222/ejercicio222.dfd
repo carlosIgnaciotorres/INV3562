@@ -1,0 +1,80 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+' Ingrese un número: '
+5
+1
+1
+N
+6
+3
+5
+menor
+5
+N - 1
+5
+mayor
+5
+N + 1
+12
+esPalindromo
+10
+'  Falso '
+6
+3
+1
+x
+1
+N
+8
+original
+1
+x
+7
+reverso
+1
+0
+9
+1
+5
+x > 0
+6
+2
+6
+digito
+8
+X MOD 10
+1
+x
+21
+reverso * 10 + digito
+11
+7
+0
+1
+19
+EsPalindromo(menor)
+13
+4
+1
+49
+' El número palindrómico más cercano es:', menor 
+13
+7
+0
+1
+19
+EsPalindromo(mayor)
+13
+4
+1
+47
+'El número palindrómico más cercano es:', mayor
+13
+1

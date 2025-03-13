@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+' Ingrese un número primo p: '
+5
+1
+1
+p
+6
+1
+1
+n
+7
+2^p - 1
+6
+1
+7
+esPrimo
+13
+' Verdadero '
+8
+1
+1
+i
+1
+1
+2
+1
+7
+sqrt(n)
+1
+1
+1
+7
+0
+1
+11
+n Mod i = 0
+4
+1
+32
+n, 'no es un primo de Mersenne.'
+13
+4
+1
+29
+n, 'es un primo de Mersenne.'
+13
+10
+1

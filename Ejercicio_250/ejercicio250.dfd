@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+5
+total
+1
+0
+4
+1
+54
+' Ingrese el precio del producto (0 para finalizar): '
+5
+1
+6
+precio
+9
+1
+10
+precio > 0
+6
+1
+5
+total
+14
+total + precio
+4
+1
+53
+' Ingrese el precio del producto (0 para finalizar) '
+5
+1
+6
+precio
+11
+4
+1
+30
+' El total a pagar es:', total
+1

@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+' Ingrese un número decimal '
+5
+1
+1
+N
+6
+1
+11
+hexadecimal
+1
+0
+9
+1
+5
+N > 0
+6
+1
+7
+residuo
+8
+N MOD 16
+7
+0
+1
+12
+residuo < 10
+6
+1
+11
+hexadecimal
+19
+( residuo - 10 + 1)
+13
+6
+1
+11
+hexadecimal
+20
+residuo+ hexadecimal
+13
+6
+1
+1
+N
+2
+N 
+11
+4
+1
+44
+' El número en hexadecimal es:', hexadecimal
+1

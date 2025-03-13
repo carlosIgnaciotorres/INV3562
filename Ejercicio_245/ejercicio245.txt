@@ -1,0 +1,1 @@
+ Convertir una cantidad en dólares a euros según una tasa de cambio ingresada por el usuario.

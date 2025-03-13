@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+' ingreesa el primer punto x1 '
+5
+1
+2
+x1
+4
+1
+31
+' ingreesa el primer punto y1 '
+5
+1
+2
+y1
+4
+1
+31
+' ingreesa el primer punto x2 '
+5
+1
+2
+x2
+4
+1
+31
+' ingreesa el primer punto y2 '
+5
+1
+2
+y2
+6
+2
+4
+suma
+28
+(x2 - x1 )^2   + (y2 - y1)^2
+9
+Distancia
+10
+sqrt(suma)
+4
+1
+48
+' La distancia entre los puntos es ' , Distancia
+1

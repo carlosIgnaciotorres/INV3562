@@ -1,1 +1,0 @@
-Contar cuántos números pares hay en una lista de N números ingresados.

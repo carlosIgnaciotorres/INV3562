@@ -1,0 +1,94 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+' Ingrese la cantidad de números: '
+5
+1
+1
+N
+6
+2
+9
+Dimension
+1
+N
+4
+suma
+1
+0
+8
+1
+1
+i
+1
+1
+0
+1
+3
+N-1
+1
+1
+1
+4
+1
+22
+' Ingrese un número: '
+5
+1
+8
+lista(i)
+6
+1
+4
+suma
+15
+suma + lista(i)
+10
+6
+2
+5
+media
+8
+suma / N
+8
+contador
+1
+0
+8
+1
+1
+i
+1
+1
+0
+1
+3
+N-1
+1
+1
+1
+7
+0
+1
+16
+lista(i) > media
+13
+6
+1
+8
+contador
+12
+contador + 1
+13
+10
+4
+1
+56
+' Cantidad de números mayores que la media: ' , contador
+1

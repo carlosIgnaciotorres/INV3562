@@ -1,1 +1,0 @@
-Determinar si un número tiene la misma cantidad de dígitos pares e impares.

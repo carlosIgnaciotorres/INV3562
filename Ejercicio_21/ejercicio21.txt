@@ -1,0 +1,1 @@
+"	Calcular e imprimir el salario mensual de un trabajador teniendo en cuenta la cantidad de horas trabajadas y el valor de la hora. Al total devengado se le debe realizar un descuento del 10% por seguridad, social y un descuento del 1% por aportes al fondo de empleados. Imprimir el valor neto a pagar."

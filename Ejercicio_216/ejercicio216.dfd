@@ -1,0 +1,76 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+' Ingrese un número: '
+5
+1
+1
+N
+6
+2
+5
+pares
+1
+0
+7
+impares
+1
+0
+9
+1
+5
+N > 0
+6
+1
+6
+digito
+8
+N MOD 10
+7
+0
+1
+17
+digito MOD 2 = 0 
+6
+1
+7
+impares
+11
+impares + 1
+13
+6
+1
+5
+pares
+9
+pares + 1
+13
+6
+1
+1
+N
+6
+10 / N
+11
+7
+0
+1
+15
+pares = impares
+4
+1
+68
+' El número NO tiene la misma cantidad de dígitos pares e impares. '
+13
+4
+1
+65
+' El número tiene la misma cantidad de dígitos pares e impares. '
+13
+1

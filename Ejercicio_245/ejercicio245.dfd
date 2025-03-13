@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+36
+' Ingrese la cantidad en dólares: ' 
+5
+1
+7
+dolares
+4
+1
+65
+' Ingrese la tasa de cambio (1 dólar a cuántos euros equivale): '
+5
+1
+4
+tasa
+6
+1
+5
+euros
+14
+dolares * tasa
+4
+1
+39
+' El equivalente en euros es: ' , euros
+1

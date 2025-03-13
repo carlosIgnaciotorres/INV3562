@@ -1,0 +1,1 @@
+Simular un sistema de votación donde el usuario puede votar por 3 candidatos y mostrar el resultado final.

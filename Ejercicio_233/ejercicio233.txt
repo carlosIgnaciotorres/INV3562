@@ -1,1 +1,0 @@
-. Construir un triángulo de Pascal de altura N.

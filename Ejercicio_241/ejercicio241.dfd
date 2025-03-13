@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+42
+' Ingrese el saldo inicial de la cuenta: '
+5
+1
+5
+saldo
+4
+1
+61
+' Seleccione una opción: 1) Depositar  2) Retirar  3) Salir '
+5
+1
+6
+opcion
+7
+0
+1
+10
+opcion = 1
+4
+1
+32
+' Error: Fondos insuficientes. '
+13
+4
+1
+35
+' ngrese la cantidad a depositar: '
+5
+1
+5
+monto
+6
+1
+5
+saldo
+13
+saldo + monto
+4
+1
+22
+'Nuevo saldo: ', saldo
+13
+4
+1
+49
+' Operaciones finalizadas. Saldo final: ' , saldo
+1

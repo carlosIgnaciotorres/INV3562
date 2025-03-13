@@ -1,1 +1,0 @@
- Determinar el número de Fibonacci más cercano a un número ingresado.

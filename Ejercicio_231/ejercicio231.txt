@@ -1,1 +1,0 @@
-. Determinar el índice del primer número negativo en una lista.

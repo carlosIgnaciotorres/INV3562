@@ -1,0 +1,95 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+50
+' Ingrese la altura del triángulo de Pascal (N): '
+5
+1
+1
+N
+8
+1
+1
+i
+1
+1
+0
+1
+1
+N
+1
+1
+1
+6
+2
+12
+pascal(i, 0)
+1
+1
+12
+pascal(i, i)
+1
+1
+8
+1
+1
+j
+1
+1
+1
+1
+1
+i
+1
+1
+1
+6
+1
+12
+pascal(i, j)
+21
+ pascal(i - 1, j - 1)
+10
+10
+4
+1
+24
+' Triángulo de Pascal: '
+8
+1
+1
+i
+1
+1
+0
+1
+1
+N
+1
+1
+1
+8
+1
+1
+j
+1
+1
+0
+1
+1
+i
+1
+1
+1
+10
+4
+1
+12
+pascal(i, j)
+10
+1
