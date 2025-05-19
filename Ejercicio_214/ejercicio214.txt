@@ -1,0 +1,1 @@
+ Determinar si un número es un cuadrado perfecto mediante sumas sucesivas.

@@ -1,0 +1,1 @@
+. Determinar si dos listas son iguales sin importar el orden de los elementos.

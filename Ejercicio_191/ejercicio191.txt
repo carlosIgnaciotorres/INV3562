@@ -1,0 +1,1 @@
+Pedir números al usuario hasta que ingrese un múltiplo de 7.

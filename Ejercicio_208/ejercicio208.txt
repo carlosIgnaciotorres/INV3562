@@ -1,0 +1,1 @@
+. Determinar si un número es una raíz perfecta (ejemplo: 4, 9, 16, 25, etc.).

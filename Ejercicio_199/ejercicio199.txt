@@ -1,0 +1,1 @@
+Invertir un número: Pedir un número y mostrarlo al revés.

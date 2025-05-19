@@ -1,0 +1,1 @@
+Sumar los dígitos de un número hasta obtener un solo dígito.

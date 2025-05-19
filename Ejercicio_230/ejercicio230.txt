@@ -1,0 +1,1 @@
+. Determinar si una lista de números está ordenada de forma creciente o decreciente.

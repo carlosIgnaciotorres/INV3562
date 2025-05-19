@@ -1,0 +1,1 @@
+. Determinar la diferencia entre la suma de los cuadrados y el cuadrado de la suma de los primeros N números.
